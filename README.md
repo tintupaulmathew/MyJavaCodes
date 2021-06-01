@@ -9,5 +9,7 @@ Programs
      output:"aabbbbbcccd"
 4) to print butterfly pattern
   
-5) to print the number pattern
+5) to print a number pattern
  
+6) to print look and say pattern
+
