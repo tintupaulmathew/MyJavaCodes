@@ -13,3 +13,7 @@ Programs
  
 6) to print look and say pattern
 
+7) code to solve mathematical expressions
+
+8) code to check sudoko
+
