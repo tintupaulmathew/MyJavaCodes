@@ -17,3 +17,7 @@ Programs
 
 8) code to check sudoko
 
+9) To print the array with small number with it's cube as pair format
+
+10) Program to add the top 3 largest numbers in an array
+
