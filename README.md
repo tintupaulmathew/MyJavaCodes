@@ -23,3 +23,5 @@ Programs
 
 11) Checking if an array is part of the fibonacci series
 
+12) To find second largest element in an array
+
